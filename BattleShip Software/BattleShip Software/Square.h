@@ -11,4 +11,10 @@ public:
 	int maxColumn;
 	Square();
 
+private:
+	int highScore;
+	
+	
+	
+
 };
